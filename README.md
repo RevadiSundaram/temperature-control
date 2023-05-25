@@ -10,6 +10,11 @@ Features:
 7. When the temperature is below 15, the background color should be blue
 
 Sample:
+
 ![image](https://github.com/RevadiSundaram/temperature-control/assets/47391816/f5a14e1d-72aa-4265-b50d-1a4d7236cc01)
+
+
 ![image](https://github.com/RevadiSundaram/temperature-control/assets/47391816/51debd35-f292-4915-a138-030f4f701a32)
+
+
 
