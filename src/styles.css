@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+.App {
+  margin-top: 40px;
+  border: 2px solid white;
+  max-width: small;
+  padding: 10px;
+  box-sizing: border-box;
+  box-shadow: 5px 10px;
+  width: 300px;
+  background: #dcfffd;
+  height: 200px;
+  box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.75);
+}
+.temperature {
+  text-align: center;
+}
+button {
+  padding: 10px 20px;
+  background-color: #0052cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+h1 {
+  font-weight: lighter;
+}
+.hot {
+  background-color: #ffebd3;
+}
+.cold {
+  background-color: #dcfffd;
+}
+.neutral {
+  background-color: #ffff9e;
+}
